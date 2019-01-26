@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def display_rainbow ['red']
+def display_rainbow ('red')
   puts "R: #{display_rainbow[0]}"
   puts "O: #{display_rainbow[1]}"
   puts "Y: #{display_rainbow[2]}"
