@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def display_rainbow(col)
+def display_rainbow('red')
   puts "R: red"
   puts "O: orange"
   puts "Y: yellow"
